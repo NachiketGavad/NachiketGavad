@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
 - 🔭 I’m Student
 - 🌱 I’m currently learning machine learning
-- 💬 Ask me about PHP,JavaScript,python
+- 💬 Ask me about C,PHP,JavaScript,python
 - 📫 How to reach me: nachiketgavad@gmail.com
 
 ## 🛠️ My favorite tools
