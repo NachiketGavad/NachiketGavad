@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
-- 🔭 I’m Student
-- 🌱 I’m currently learning machine learning
-- 💬 Ask me about C,PHP,JavaScript,python
+- I’m a full-stack developer
+- 1600+ Rating and Top 15% in Leetcode Global Contest
+- 5 star in C++ and Problem Solving on HackerRank
+- Solved over 300+ complex Data Structures and Algorithms coding problems on LeetCode
+- Worked on Web Devlopment Projects (HTML, CSS, JS, Ajax, PHP for the frontend and SQL for the database operations)
+- Worked on Machine Learning Projects.
+- Currently Learning .net Framework with C#.
 - 📫 How to reach me: nachiketgavad@gmail.com
 
 ## 🛠️ My favorite tools
