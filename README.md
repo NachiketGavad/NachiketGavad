@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, This is Nachiket Gavad
 
 <!--
 **NachiketGavad/NachiketGavad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp; -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
+
+### 👨‍💻 About Me : 
 - I’m a full-stack developer
 - 1600+ Rating and Top 15% in Leetcode Global Contest
 - 5 star in C++ and Problem Solving on HackerRank
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Currently Learning .net Framework with C#.
 - 📫 How to reach me: nachiketgavad@gmail.com
 
-## 🛠️ My favorite tools
+## 🛠️ Tools I've used
 
 ### 👨‍💻 Programming languages
 
@@ -76,3 +76,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
 </p>
+
+<!-- ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp; -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
