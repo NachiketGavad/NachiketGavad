@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp;
+<!-- ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp; -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
 - I’m a full-stack developer
 - 1600+ Rating and Top 15% in Leetcode Global Contest
