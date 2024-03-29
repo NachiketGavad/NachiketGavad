@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me : 
 - I’m a full-stack developer
-- 1600+ Rating and Top 15% in Leetcode Global Contest
+- 1600+ Rating and Top 15% in [Leetcode](https://leetcode.com/NachiketGavad/) Global Contest
 - 5 star in C++ and Problem Solving on HackerRank
 - Solved over 300+ complex Data Structures and Algorithms coding problems on LeetCode
 - Worked on Web Devlopment Projects (HTML, CSS, JS, Ajax, PHP for the frontend and SQL for the database operations)
 - Worked on Machine Learning Projects.
 - Currently Learning .net Framework with C#.
-- 📫 How to reach me: nachiketgavad@gmail.com
+- 📫 Connect with me: nachiketgavad@gmail.com
+- [Linkedin](https://www.linkedin.com/in/nachiket-gavad-885163206/)
 
 ## 🛠️ Tools I've used
 
