@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me : 
 - I’m a full-stack developer
-- 1600+ Rating and Top 15% in [Leetcode](https://leetcode.com/NachiketGavad/) Global Contest
-- 5 star in C++ and Problem Solving on HackerRank
-- Solved over 300+ complex Data Structures and Algorithms coding problems on LeetCode
+- With 1680+ Rating and Top 14% in [Leetcode](https://leetcode.com/NachiketGavad/) Global Contest
+- Recieved 5 star in C++ and Problem Solving on HackerRank
+- Solved over 500+ complex Data Structures and Algorithms coding problems on LeetCode and GeeksForGeeks
 - Worked on Web Devlopment Projects (HTML, CSS, JS, Ajax, PHP for the frontend and SQL for the database operations)
 - Worked on Machine Learning Projects.
 - Currently Learning .net Framework with C#.
