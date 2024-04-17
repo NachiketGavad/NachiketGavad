@@ -1,4 +1,4 @@
-### Hi there 👋, This is Nachiket Gavad
+## Hi there 👋, This is Nachiket Gavad
 
 <!--
 **NachiketGavad/NachiketGavad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - Worked on Web Devlopment Projects (HTML, CSS, JS, Ajax, PHP for the frontend and SQL for the database operations)
 - Worked on Machine Learning Projects.
 - Currently Learning .net Framework with C#.
-- : nachiketgavad@gmail.com
 
-## 🛠️ Tools I've used
+### 🛠️  Technologies I have worked with :
 
-### 👨‍💻 Programming languages
+<!-- ### 👨‍💻 Programming languages : -->
+<a href=""  style="border: 2px solid white;" ><img src="images/Python-logo-notext.svg.png" width=40px height=40px title="Python"  /></a>  <a href=""><img src="images/cpp-logo-icon.png" width=40px height=40px title="C++" /></a>   <a href=""><img src="images/php-logo.png"  width=40px height=40px title="PHP" /></a>  <a href=""><img src="images/js_logo.png"  width=40px height=40px title="JavaScript" /></a>  <a href=""><img src="images/css3.jpg"  width=40px height=40px title="CSS" /></a> <a href=""><img src="images/mysql_PNG23.png"  width=40px height=40px title="MySQL" /></a> <a href=""><img src="images/html5.png" width=40px height=40px title="HTML" /></a> <a href=""><img src="images/bootstrap-5-logo-icon.png" width=40px height=40px title="Bootstrap" /></a>
 
 <!-- <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -40,21 +40,19 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 </p> -->
 
+<!--|---| ---|---|---|---|---|---|---|-->
 
-| <a href=""><img src="images/Python-logo-notext.svg.png" width=40px height=40px title="Python" /></a><a href=""><img src="images/cpp-logo-icon.png" width=40px height=40px title="C++" /></a> |  <a href=""><img src="images/php-logo.png"  width=40px height=40px title="PHP" /></a>|<a href=""><img src="images/js_logo.png"  width=40px height=40px title="JavaScript" /></a> |<a href=""><img src="images/css3.jpg"  width=40px height=40px title="CSS" /></a> |<a href=""><img src="images/mysql_PNG23.png"  width=40px height=40px title="MySQL" /></a> | <a href=""><img src="images/html5.png" width=40px height=40px title="HTML" /></a>
-| --- | ---|---|---|---|---|---|---|---|
 
-### Frameworks and libraries
-
+<!-- ### Frameworks and libraries -->
 <p>
     <!-- <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> -->
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>-->
     <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> -->
      <!-- <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a> -->
      <!-- <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a> -->
 </p>
-| <a href=""><img src="images/bootstrap-5-logo-icon.png" width=40px height=40px title="Bootstrap" /></a>| 
+
 
 <!-- ### Databases and cloud hosting
 
@@ -67,7 +65,7 @@ Here are some ideas to get you started:
 
 
 
-### Software and tools
+<!-- ### Software and tools -->
 
 <!-- <p>
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -82,8 +80,8 @@ Here are some ideas to get you started:
 </p> 
 -->
 
-### 📫 Connect with me
-<a href="https://www.linkedin.com/in/nachiket-gavad-885163206/" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png" width=40px height=40px title="LinkedIn" /></a> <a href="mailto:nachiketgavad@gmail.com" target="_blank" rel="noopener noreferrer"><img src="images/gmail.ico" width=40px height=40px title="Email" /></a> 
+### 📫 Connect with me :
+<a href="https://www.linkedin.com/in/nachiket-gavad-885163206/" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png" width=40px height=40px title="LinkedIn" /></a>  &nbsp;  <a href="mailto:nachiketgavad@gmail.com" target="_blank" rel="noopener noreferrer"><img src="images/gmail.ico" width=40px height=40px title="Email" /></a> 
 
 <!-- ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachiketGavad&show_icons=true&theme=radical) &nbsp; -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketGavad&layout=compact)
